@@ -1,0 +1,8 @@
+{
+  "name": "Collective Detailing - Apex Virtual Booking Assistant",
+  "description": "Virtual booking assistant Apex and luxury automotive detailing studio in Irvine, CA 92614. Providing precision pricing, vehicle qualification, and instant appointment scheduling for Interior Detail, Paint Correction, and Ceramic Coating.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
